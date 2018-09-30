@@ -2,11 +2,10 @@
 
 ## Up to date simple useragent faker
 
-`useragent-faker` is an NPM package that gives you a real useragent string for your needs.
+`useragent-faker` is an NPM package that gives you a real useragent string for your needs. 
 Be it for web scraping or other automation jobs.
 
 ### Installation
-
 leaked requires [Node.js](https://nodejs.org/) v8+ to run.
 
 ```sh
@@ -24,7 +23,7 @@ $ npm install useragent-faker
 
 ### Usage
 
-```javascript
+``` javascript
 const ua = require('useragent-faker');
 
 console.log(ua.random());
@@ -50,12 +49,11 @@ console.log(ua.safari());
 ```
 
 ### Todos
+ - Add more browsers
+ - Updates
 
-- Add more browsers
-- Updates
-
-## License
-
+License
+----
 MIT
 
 **Free Software, Yes!**
