@@ -15,11 +15,16 @@ $ npm install useragent-faker
 
 ### Supported browsers
 
-![](https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_chrome-512.png =64x64) 
-![](https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_edge-512.png =64x64) 
-![](https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_firefox-512.png =64x64) 
-![](https://cdn1.iconfinder.com/data/icons/logotypes/32/internet-explorer-512.png =64x64) 
+![](https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_chrome-512.png =64x64)
+
+![](https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_edge-512.png =64x64)
+
+![](https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_firefox-512.png =64x64)
+
+![](https://cdn1.iconfinder.com/data/icons/logotypes/32/internet-explorer-512.png =64x64)
+
 ![](https://cdn1.iconfinder.com/data/icons/logotypes/32/opera-512.png =64x64)
+
 ![](https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_safari-512.png =64x64)
 
 ### Usage
