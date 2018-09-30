@@ -1,6 +1,6 @@
 {
   "name": "useragent-faker",
-  "version": "0.1.0",
+  "version": "0.2.5",
   "description": "Simple useragent faker for Node.js",
   "main": "useragent-faker",
   "scripts": {

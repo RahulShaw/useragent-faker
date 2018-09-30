@@ -6,7 +6,7 @@
 Be it for web scraping or other automation jobs.
 
 ### Installation
-leaked requires [Node.js](https://nodejs.org/) v8+ to run.
+useragent-faker requires [Node.js](https://nodejs.org/) v8+ to run.
 
 ```sh
 $ npm install useragent-faker
